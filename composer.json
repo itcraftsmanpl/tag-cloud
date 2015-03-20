@@ -1,4 +1,5 @@
 {
+    "name": "lotsofcode/tag-cloud",
     "require-dev": {
         "phpunit/phpunit": "3.7.*"
     },
